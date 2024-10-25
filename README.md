@@ -58,14 +58,13 @@ At [42 Tokyo](https://42tokyo.jp/), I aim to deepen my technical expertise acros
 
 ## Let's Connect!
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithubusername)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yourfacebookusername)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/WakamiyaYuma)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/small-engineer)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yuma.wakamiya)
 
 ---
 
-*“Technology is a tool, but it's people who drive innovation.”*
+*“為せば成る、為さねば成らぬ、何事も、成らぬは人の為さぬなりけり”*
+*“If you put your mind to it, you can accomplish anything.”*
 
 ---
-
-Feel free to reach out if you'd like to collaborate or just chat about tech, anime, or games!
