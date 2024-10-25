@@ -22,7 +22,7 @@
 
 - 💼 **Experience:**
   - Since 2022, I've been part of Pendemy Digital Education Lab, engaging in STEAM education initiatives.
-  - Established [Kalytero LLC](https://kalytero.com) in November 2023, serving as COO.
+  - Established [Kalytero LLC](https://www.kalytero.ne.jp) in November 2023, serving as COO.
 
 - 🌐 **Website:** [small-engineer.net](https://www.small-engineer.net/)  
 - 📫 **Email:** [wakamiya626@gmail.com](mailto:wakamiya626@gmail.com)
