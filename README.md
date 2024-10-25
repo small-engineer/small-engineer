@@ -1,26 +1,19 @@
 [![Header Image](https://www.small-engineer.net/logo.webp)](https://github.com/small-engineer)
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <a href="https://twitter.com/WakamiyaYuma" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/WakamiyaYuma?style=social" alt="Twitter Follow"/>
-    </a>
-    <a href="https://github.com/small-engineer" target="_blank">
-      <img src="https://img.shields.io/github/followers/small-engineer?style=social" alt="GitHub followers"/>
-    </a>
-    <a href="https://facebook.com/yuma.wakamiya" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-Profile-blue" alt="Facebook"/>
-    </a>
-  </div>
-  <div>
-    <img src="https://www.small-engineer.net/profile.webp" 
-         alt="Profile Image" 
-         width="150" 
-         style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
-  </div>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=small-engineer&color=green)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/WakamiyaYuma?style=social)](https://twitter.com/WakamiyaYuma)  
+[![GitHub followers](https://img.shields.io/github/followers/small-engineer?style=social)](https://github.com/small-engineer)  
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://facebook.com/yuma.wakamiya)
 
 ## About Me
+
+<div style="display: flex; align-items: center;">
+  <img src="https://www.small-engineer.net/profile.webp" alt="Profile Image" width="200" style="margin-right: 20px;"/>
+  <div>
+    <p>I'm a software engineer and tech enthusiast from Tokyo, Japan 🇯🇵. I have a passion for technology, anime, and games. Currently, I'm the COO at <a href="https://kalytero.com">Kalytero LLC</a>, where we're dedicated to solving social issues through innovative technology.</p>
+  </div>
+</div>
 
 I'm a software engineer and tech enthusiast from Tokyo, Japan 🇯🇵. I have a passion for technology, anime, and games. Currently, I'm the COO at [Kalytero LLC](https://kalytero.com), where we're dedicated to solving social issues through innovative technology.
 
