@@ -65,6 +65,7 @@ At [42 Tokyo](https://42tokyo.jp/), I aim to deepen my technical expertise acros
 ---
 
 *“為せば成る、為さねば成らぬ、何事も、成らぬは人の為さぬなりけり”*
+
 *“If you put your mind to it, you can accomplish anything.”*
 
 ---
