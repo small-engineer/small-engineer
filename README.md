@@ -69,4 +69,4 @@ At [42 Tokyo](https://42tokyo.jp/), I aim to deepen my technical expertise acros
 *“If you put your mind to it, you can accomplish anything.”*
 
 ---
-[![Footer Image](https://www.small-engineer.net/banner.webp/1200x400?text=Thank+you+for+visiting+my+profile)](https://www.small-engineer.net/)
+[![Footer Image](https://www.small-engineer.net/banner.webp)](https://www.small-engineer.net/)
