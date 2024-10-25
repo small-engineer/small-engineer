@@ -47,9 +47,9 @@
 
 ## GitHub Stats
 
-[![Yuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)](https://github.com/yourgithubusername)
+[![Yuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=small-engineer&show_icons=true&theme=tokyonight)](https://github.com/small-engineer)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)](https://github.com/yourgithubusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=small-engineer&layout=compact&theme=tokyonight)](https://github.com/small-engineer)
 
 ## 🌟 Vision
 
