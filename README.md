@@ -2,11 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=small-engineer&color=green)
 
+<img align="right" alt="Profile Image" src="https://www.small-engineer.net/profile.webp" width="200"/>
 [![Twitter Follow](https://img.shields.io/twitter/follow/WakamiyaYuma?style=social)](https://twitter.com/WakamiyaYuma)  
 [![GitHub followers](https://img.shields.io/github/followers/small-engineer?style=social)](https://github.com/small-engineer)  
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://facebook.com/yuma.wakamiya)
-
-<img align="right" alt="Profile Image" src="https://www.small-engineer.net/profile.webp" width="200"/>
 
 ## About Me
 
