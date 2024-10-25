@@ -8,13 +8,23 @@
 
 ## About Me
 
-<div style="display: flex; align-items: center;">
-  <img src="https://www.small-engineer.net/profile.webp" alt="Profile Image" width="200" style="margin-right: 20px;"/>
-  <div>
-    <p>I'm a software engineer and tech enthusiast from Tokyo, Japan 🇯🇵. I have a passion for technology, anime, and games. Currently, I'm the COO at <a href="https://kalytero.com">Kalytero LLC</a>, where we're dedicated to solving social issues through innovative technology.</p>
-  </div>
-</div>
+<style>
+.column-left {
+  float: left;
+  width: 47.5%;
+  text-align: left;
+  padding-right: 20px;
+}
 
+.column-right {
+  float: right;
+  width: 47.5%;
+  text-align: center;
+}
+</style>
+
+<div class="column-left">
+  
 I'm a software engineer and tech enthusiast from Tokyo, Japan 🇯🇵. I have a passion for technology, anime, and games. Currently, I'm the COO at [Kalytero LLC](https://kalytero.com), where we're dedicated to solving social issues through innovative technology.
 
 - 🎓 **Education:**
@@ -28,6 +38,14 @@ I'm a software engineer and tech enthusiast from Tokyo, Japan 🇯🇵. I have a
 
 - 🌐 **Website:** [small-engineer.net](https://www.small-engineer.net/)  
 - 📫 **Email:** [wakamiya626@gmail.com](mailto:wakamiya626@gmail.com)
+
+</div>
+
+<div class="column-right">
+  <img src="https://www.small-engineer.net/profile.webp" alt="Profile Image" width="200"/>
+</div>
+
+<div style="clear: both;"></div>
 
 ## Skills
 
