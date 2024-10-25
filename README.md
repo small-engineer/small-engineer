@@ -1,4 +1,4 @@
-![Header Image](https://www.small-engineer.net/logo.webp)
+[![Header Image](https://www.small-engineer.net/logo.webp)(https://github.com/small-engineer)]
 # Hi there, I'm Yuma Wakamiya 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=small-engineer&color=green)
