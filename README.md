@@ -30,31 +30,31 @@
                    alt="Twitter" width="30">
             </a>
           </td>
-          <td align="center">
+          <td align="center" valign="middle">
             <a href="https://github.com/small-engineer">
               <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
                    alt="GitHub" width="30">
             </a>
           </td>
-          <td align="center">
+          <td align="center" valign="middle">
             <a href="https://www.linkedin.com/in/yuma-wakamiya/">
               <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
                    alt="LinkedIn" width="30">
             </a>
           </td>
-          <td align="center">
+          <td align="center" valign="middle">
             <a href="https://www.facebook.com/yuma.wakamiya">
               <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
                    alt="Facebook" width="30">
             </a>
           </td>
-          <td align="center">
+          <td align="center" valign="middle">
             <a href="https://discord.com/users/___x86_64___">
               <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" 
                    alt="Discord" width="30">
             </a>
           </td>
-          <td align="center">
+          <td align="center" valign="middle">
             <a href="https://www.instagram.com/wakamiya_yuma">
               <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
                    alt="Instagram" width="30">
