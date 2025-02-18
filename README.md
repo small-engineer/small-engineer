@@ -1,35 +1,37 @@
 <table>
   <tr>
-    <td valign="top" style="padding: 10px;">
-      <h1>プロフィール</h1>
+    <td colspan="2" align="center" style="font-size: 1.5em; font-weight: bold;">
+      Wakamiya Yuma (若宮佑磨)
     </td>
-    <td valign="top" style="padding: 10px;">
-      <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-        <img src="https://www.small-engineer.net/images/profile.webp" alt="プロフィール画像" width="200" style="border-radius: 50%;">
-      </div>
-      <div style="border: 1px solid #ccc; padding: 10px;">
-        COO @ Kalytero | iU &amp; 42Tokyo | IT × Business | Web &amp; Cloud Developer
-      </div>
+  </tr>
+  <tr>
+    <td valign="top" width="220" align="center">
+      <img src="https://www.small-engineer.net/images/profile.webp" 
+           alt="プロフィール画像" width="200" 
+           style="border-radius: 50%;">
     </td>
-    <td valign="top" style="padding: 10px;">
-      <div style="margin-bottom: 10px;">
-        <a href="https://twitter.com/yourprofile" target="_blank">
-          <button style="padding: 8px 16px;">Twitter</button>
-        </a>
-      </div>
-      <div style="margin-bottom: 10px;">
-        <a href="https://linkedin.com/in/yourprofile" target="_blank">
-          <button style="padding: 8px 16px;">LinkedIn</button>
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/yourprofile" target="_blank">
-          <button style="padding: 8px 16px;">GitHub</button>
-        </a>
-      </div>
+    <td valign="middle">
+      COO @ Kalytero | iU & 42Tokyo | IT × Business | Web & Cloud Developer
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://twitter.com/your_username" style="margin: 0 10px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" 
+             alt="Twitter" width="30">
+      </a>
+      <a href="https://github.com/your_username" style="margin: 0 10px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
+             alt="GitHub" width="30">
+      </a>
+      <a href="https://www.linkedin.com/in/your_username/" style="margin: 0 10px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+             alt="LinkedIn" width="30">
+      </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
