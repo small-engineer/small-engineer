@@ -1,5 +1,3 @@
-## 自己紹介
-
 <table>
   <tr>
     <td valign="top" width="220">
@@ -16,7 +14,7 @@
 
 ---
 
-### SNS & 閲覧数
+### SNS & View
 
 ![閲覧数](https://komarev.com/ghpvc/?username=small-engineer&color=green)
 
@@ -26,7 +24,7 @@
 
 ---
 
-### 連絡先
+### Contact
 
 - 🌐 **ウェブサイト:** [Profile site](https://wakamiya.blog/)
 - 📫 **メール:** [wakamiya626@gmail.com](mailto:wakamiya626@gmail.com)
@@ -34,18 +32,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
   <img src="https://github-readme-stats.vercel.app/api?username=small-engineer&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-engineer&layout=compact&theme=radical" alt="Top Languages" />
-
-### 🔥 GitHub Streak
-
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=small-engineer&theme=tokyonight&border_radius=4&locale=ja&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=500&card_height=200&hide_longest_streak=true" alt="GitHub Streak" /></a>
-
+  
 ---
 
-### 💻 技術スタック
+### 💻 Stacks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,docker,aws" alt="Tech Stack Icons" />
