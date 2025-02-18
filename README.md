@@ -20,6 +20,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
+      <tr>
           <td align="center">
             <a href="https://twitter.com/WakamiyaYuma">
               <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" 
@@ -56,6 +57,7 @@
                    alt="Instagram" width="32">
             </a>
           </td>
+        </tr>
     </td>
   </tr>
 </table>
