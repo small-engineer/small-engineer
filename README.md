@@ -11,6 +11,14 @@
 
 ---
 
+### 📊 Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=small-engineer&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-engineer&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ### 📱 Follow Me
 
 <table>
@@ -45,22 +53,13 @@
   </tr>
 </table>
 
-
----
-
-### 📊 Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=small-engineer&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-engineer&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
 ### ✉️ Contact
 
-- 🌐 **ウェブサイト:** [Profile site](https://wakamiya.blog/)
-- 📫 **メール:** [wakamiya626@gmail.com](mailto:wakamiya626@gmail.com)
-- 🏢 **ビジネスメール:** [yuma-wakamiya@kalytero.ne.jp](mailto:yuma-wakamiya@kalytero.ne.jp)
+- 🌐 **:** [Profile site](https://wakamiya.blog/)
+- 📫 **:** [wakamiya626@gmail.com](mailto:wakamiya626@gmail.com)
+- 🏢 **:** [yuma-wakamiya@kalytero.ne.jp](mailto:yuma-wakamiya@kalytero.ne.jp)
 
 ---
 
