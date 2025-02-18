@@ -26,9 +26,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/small-engineer">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
-             alt="GitHub" width="32">
+      <a href="https://www.facebook.com/yuma.wakamiya">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
+             alt="Facebook" width="32">
       </a>
     </td>
     <td align="center">
@@ -38,9 +38,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.facebook.com/yuma.wakamiya">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
-             alt="Facebook" width="32">
+      <a href="https://github.com/small-engineer">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
+             alt="GitHub" width="32">
       </a>
     </td>
     <td align="center">
