@@ -16,15 +16,27 @@
 
 ### SNS & View
 
-![閲覧数](https://komarev.com/ghpvc/?username=small-engineer&color=green)
+<table>
+  <tr>
+    <td>
+      <h3>👀 閲覧数</h3>
+      <img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
+    </td>
+    <td>
+      <h3>📱 Follow Me</h3>
+      <a href="https://twitter.com/WakamiyaYuma">
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
+      </a>
+      <a href="https://github.com/small-engineer">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+      </a>
+      <a href="https://www.linkedin.com/in/your-profile">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Twitter](https://img.shields.io/twitter/follow/WakamiyaYuma?style=social)](https://twitter.com/WakamiyaYuma)  
-[![GitHub](https://img.shields.io/github/followers/small-engineer?style=social)](https://github.com/small-engineer)  
-[![Facebook](https://img.shields.io/badge/Facebook-プロフィール-blue)](https://facebook.com/yuma.wakamiya)
-
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/WakamiyaYuma)
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yuma-wakamiya/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/small-engineer)
 
 ---
 
