@@ -44,9 +44,7 @@
 ### 🔥 GitHub Streak
 
 <div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=small-engineer&theme=tokyonight&border_radius=4&locale=ja&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=500&card_height=200&hide_longest_streak=true)](https://git.io/streak-stats)
-  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=small-engineer&theme=tokyonight&border_radius=4&locale=ja&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=500&card_height=200&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 ---
