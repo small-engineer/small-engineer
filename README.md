@@ -62,7 +62,7 @@
 
 ### 📊 Stats
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your_username&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=small-engineer&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=small-engineer&show_icons=true&theme=radical" alt="GitHub Stats" />
