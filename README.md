@@ -7,11 +7,11 @@
 <br>
 
 ## Wakamiya Yuma (若宮佑真)
-<table border="0">
+<table>
   <tr>
     <td valign="top" width="220" align="center">
       <img src="https://www.small-engineer.net/images/profile.webp" 
-           alt="プロフィール画像" width="200" 
+           alt="Profile" width="200" 
            style="border-radius: 50%;">
     </td>
     <td valign="middle">
@@ -19,7 +19,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="left">
       <a href="https://twitter.com/your_username" style="margin: 0 10px;">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" 
              alt="Twitter" width="30">
