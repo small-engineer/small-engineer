@@ -21,7 +21,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="left">
       <table>
         <tr>
           <td align="center">
