@@ -14,16 +14,14 @@
 
 ---
 
-### SNS & View
+### 📱 Follow Me
 
 <table>
   <tr>
     <td align="center">
-      <strong>📊 Profile Views</strong><br>
       <img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
     </td>
     <td align="center">
-      <strong>📢 Social</strong><br>
       <a href="https://twitter.com/WakamiyaYuma">
         <img src="https://img.shields.io/twitter/follow/WakamiyaYuma?style=social" alt="Twitter">
       </a>
@@ -37,7 +35,6 @@
       </a>
     </td>
     <td align="center">
-      <strong>📱 Follow Me</strong><br>
       <a href="https://twitter.com/WakamiyaYuma">
         <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
       </a>
