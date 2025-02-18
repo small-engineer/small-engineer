@@ -18,12 +18,26 @@
 
 <table>
   <tr>
-    <td>
-      <h3>👀 閲覧数</h3>
+    <td align="center">
+      <strong>📊 Profile Views</strong><br>
       <img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
     </td>
-    <td>
-      <h3>📱 Follow Me</h3>
+    <td align="center">
+      <strong>📢 Social</strong><br>
+      <a href="https://twitter.com/WakamiyaYuma">
+        <img src="https://img.shields.io/twitter/follow/WakamiyaYuma?style=social" alt="Twitter">
+      </a>
+      <br>
+      <a href="https://github.com/small-engineer">
+        <img src="https://img.shields.io/github/followers/small-engineer?style=social" alt="GitHub">
+      </a>
+      <br>
+      <a href="https://facebook.com/yuma.wakamiya">
+        <img src="https://img.shields.io/badge/Facebook-プロフィール-blue" alt="Facebook">
+      </a>
+    </td>
+    <td align="center">
+      <strong>📱 Follow Me</strong><br>
       <a href="https://twitter.com/WakamiyaYuma">
         <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
       </a>
@@ -36,6 +50,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
