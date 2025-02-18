@@ -8,8 +8,6 @@
 
 ## Wakamiya Yuma (若宮佑真)
 
-## Wakamiya Yuma (若宮佑真)
-
 <table>
   <tr>
     <td valign="top" width="220" align="center">
@@ -26,37 +24,37 @@
         <tr>
           <td align="center">
             <a href="https://twitter.com/WakamiyaYuma">
-              <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" 
+              <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" 
                    alt="Twitter" width="30">
             </a>
           </td>
-          <td align="center" valign="middle">
+          <td align="center">
             <a href="https://github.com/small-engineer">
-              <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
+              <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" 
                    alt="GitHub" width="30">
             </a>
           </td>
-          <td align="center" valign="middle">
+          <td align="center">
             <a href="https://www.linkedin.com/in/yuma-wakamiya/">
-              <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+              <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
                    alt="LinkedIn" width="30">
             </a>
           </td>
-          <td align="center" valign="middle">
+          <td align="center">
             <a href="https://www.facebook.com/yuma.wakamiya">
-              <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
+              <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" 
                    alt="Facebook" width="30">
             </a>
           </td>
-          <td align="center" valign="middle">
+          <td align="center">
             <a href="https://discord.com/users/___x86_64___">
-              <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" 
+              <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" 
                    alt="Discord" width="30">
             </a>
           </td>
-          <td align="center" valign="middle">
+          <td align="center">
             <a href="https://www.instagram.com/wakamiya_yuma">
-              <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
+              <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" 
                    alt="Instagram" width="30">
             </a>
           </td>
