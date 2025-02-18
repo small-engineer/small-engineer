@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="left">
       <img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
     </td>
     <td align="center">
