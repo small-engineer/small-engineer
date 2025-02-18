@@ -10,11 +10,11 @@
 
 <table>
   <tr>
-    <td valign="top" width="260" align="center" colspan="2">
+    <td valign="top" width="250" align="center" colspan="2">
       <img src="https://www.small-engineer.net/images/profile.webp" 
-           alt="Profile" width="230">
+           alt="Profile" width="240">
     </td>
-    <td valign="middle" colspan="4">
+    <td valign="middle" colspan="4" width="500">
       COO @ Kalytero | iU & 42Tokyo | IT × Business | Web & Cloud Developer
     </td>
   </tr>
