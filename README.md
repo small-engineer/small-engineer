@@ -1,10 +1,42 @@
 <table>
   <tr>
-    <td valign="top" width="220">
-      <img src="https://www.small-engineer.net/images/profile.webp" alt="プロフィール画像" width="200" style="border-radius: 50%;">
+    <td valign="top" style="padding: 10px;">
+      <h1>Profile</h1>
     </td>
-    <td valign="middle">
-        COO @ Kalytero | iU & 42Tokyo | IT × Business | Web & Cloud Developer
+    <td valign="top" style="padding: 10px;">
+      <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+        <img src="https://www.small-engineer.net/images/profile.webp" alt="プロフィール画像" width="200" style="border-radius: 50%;">
+      </div>
+      <div style="border: 1px solid #ccc; padding: 10px;">
+        COO @ Kalytero | iU &amp; 42Tokyo | IT × Business | Web &amp; Cloud Developer
+      </div>
+    </td>
+        <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/WakamiyaYuma">
+        <img src="https://img.shields.io/twitter/follow/WakamiyaYuma?style=social" alt="Twitter">
+      </a>
+      <br>
+      <a href="https://github.com/small-engineer">
+        <img src="https://img.shields.io/github/followers/small-engineer?style=social" alt="GitHub">
+      </a>
+      <br>
+      <a href="https://facebook.com/yuma.wakamiya">
+        <img src="https://img.shields.io/badge/Facebook-プロフィール-blue" alt="Facebook">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/WakamiyaYuma">
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
+      </a>
+      <a href="https://github.com/small-engineer">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+      </a>
+      <a href="https://www.linkedin.com/in/yuma-wakamiya/">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+      </a>
     </td>
   </tr>
 </table>
