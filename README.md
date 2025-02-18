@@ -65,12 +65,10 @@
 
 ### 💻 Technology I love
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,js,ts,python,svelte,react,nextjs,remix,astro,tailwind,emotion,threejs,netlify" alt="Tech Stack Icons - Web" />
-  
-  <img src="https://skillicons.dev/icons?i=yarn,express,nodejs,docker,terraform,cloudflare,workers,aws,gcp" alt="Tech Stack Icons - Infra" />
-  
-  <img src="https://skillicons.dev/icons?i=vim,c,cpp,cmake,linux,ubuntu,debian,redhat,bsd" alt="Tech Stack Icons - Hobby" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,js,ts,python,svelte,react,nextjs,remix,astro,tailwind,emotion,threejs,netlify" alt="Tech Stack Icons - Web" /><br>
+  <img src="https://skillicons.dev/icons?i=yarn,express,nodejs,docker,terraform,cloudflare,workers,aws,gcp" alt="Tech Stack Icons - Infra" /><br>
+  <img src="https://skillicons.dev/icons?i=vim,c,cpp,cmake,linux,ubuntu,debian,redhat,bsd" alt="Tech Stack Icons - Hobby" /><br>
 </p>
 
 ---
