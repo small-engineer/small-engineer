@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
   <a href="https://github.com/small-engineer">
     <img src="https://img.shields.io/github/followers/small-engineer?style=social" alt="GitHub">
@@ -8,7 +8,7 @@
 <table border="0">
   <tr>
     <td colspan="2" align="center" style="font-size: 1.5em; font-weight: bold;">
-      Wakamiya Yuma (若宮佑磨)
+      Wakamiya Yuma (若宮佑真)
     </td>
   </tr>
   <tr>
