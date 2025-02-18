@@ -67,7 +67,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,js,ts,python" alt="Tech Stack Icons - Lang" /><br>
-  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,remix,astro,materialui,tailwind,emotion,styledcomponents,threejs" alt="Tech Stack Icons - Web" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,astro,materialui,tailwind,emotion,styledcomponents,threejs" alt="Tech Stack Icons - Web" /><br>
   <img src="https://skillicons.dev/icons?i=yarn,express,nodejs,docker,terraform,cloudflare,workers,aws,gcp" alt="Tech Stack Icons - Infra" /><br>
   <img src="https://skillicons.dev/icons?i=vim,c,cpp,cmake,linux,ubuntu,debian,redhat,bsd" alt="Tech Stack Icons - Hobby" /><br>
 </p>
