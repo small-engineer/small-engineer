@@ -8,7 +8,7 @@
 </div>
 <br>
 
-### 👤　　Profile
+### 👤 Profile
 <table>
   <tr>
     <td valign="top" width="260" align="center" colspan="2">
