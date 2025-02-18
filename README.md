@@ -7,6 +7,7 @@
 <br>
 
 ## Wakamiya Yuma (若宮佑真)
+
 <table>
   <tr>
     <td valign="top" width="220" align="center">
@@ -20,18 +21,30 @@
   </tr>
   <tr>
     <td colspan="2" align="left">
-      <a href="https://twitter.com/your_username" style="margin: 0 10px;">
+      <a href="https://twitter.com/WakamiyaYuma">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" 
              alt="Twitter" width="30">
-      </a>
-      <a href="https://github.com/your_username" style="margin: 0 10px;">
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/small-engineer">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
              alt="GitHub" width="30">
-      </a>
-      <a href="https://www.linkedin.com/in/your_username/" style="margin: 0 10px;">
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/yuma-wakamiya/">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
              alt="LinkedIn" width="30">
-      </a>
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.facebook.com/yuma.wakamiya">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
+             alt="Facebook" width="30">
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://discord.com/users/___x86_64___">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" 
+             alt="Discord" width="30">
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.instagram.com/wakamiya_yuma">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
+             alt="Instagram" width="30">
+      </a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
