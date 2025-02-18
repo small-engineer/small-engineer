@@ -5,12 +5,9 @@
   </a>
 </div>
 <br>
+
+## Wakamiya Yuma (若宮佑真)
 <table border="0">
-  <tr>
-    <td colspan="2" align="center" style="font-size: 1.5em; font-weight: bold;">
-      Wakamiya Yuma (若宮佑真)
-    </td>
-  </tr>
   <tr>
     <td valign="top" width="220" align="center">
       <img src="https://www.small-engineer.net/images/profile.webp" 
