@@ -64,9 +64,9 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=small-engineer&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=small-engineer&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-engineer&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=small-engineer&show_icons=false&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-engineer&layout=donut&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### ✉️ Contact
