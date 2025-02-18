@@ -75,8 +75,8 @@
 </p>
 
 ---
-<p align="center">
-  
-[![フッター画像](https://www.small-engineer.net/images/banner.webp)](https://www.small-engineer.net/)
+<a herf="https://www.small-engineer.net/" align="center">
 
-</p>
+  <img src="https://www.small-engineer.net/images/banner.webp" alt="https://www.small-engineer.net/">
+
+</a>
