@@ -46,7 +46,7 @@
       <a href="https://github.com/small-engineer">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
       </a>
-      <a href="https://www.linkedin.com/in/your-profile">
+      <a href="https://www.linkedin.com/in/yuma-wakamiya/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
       </a>
     </td>
