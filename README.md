@@ -1,3 +1,8 @@
+<img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
+<a href="https://github.com/small-engineer">
+  <img src="https://img.shields.io/github/followers/small-engineer?style=social" alt="GitHub">
+</a>
+<br>
 <table>
   <tr>
     <td colspan="2" align="center" style="font-size: 1.5em; font-weight: bold;">
@@ -40,44 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=small-engineer&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-engineer&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-### 📱 Follow Me
-
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/WakamiyaYuma">
-        <img src="https://img.shields.io/twitter/follow/WakamiyaYuma?style=social" alt="Twitter">
-      </a>
-      <br>
-      <a href="https://github.com/small-engineer">
-        <img src="https://img.shields.io/github/followers/small-engineer?style=social" alt="GitHub">
-      </a>
-      <br>
-      <a href="https://facebook.com/yuma.wakamiya">
-        <img src="https://img.shields.io/badge/Facebook-プロフィール-blue" alt="Facebook">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/WakamiyaYuma">
-        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
-      </a>
-      <a href="https://github.com/small-engineer">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
-      </a>
-      <a href="https://www.linkedin.com/in/yuma-wakamiya/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 ### ✉️ Contact
 
