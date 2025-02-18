@@ -1,5 +1,3 @@
-[![Header Image](https://www.small-engineer.net/images/banner.webp)](https://www.small-engineer.net/)
-
 ## 自己紹介
 
 <table>
@@ -46,7 +44,7 @@
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=small-engineer&theme=radical" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 </div>
 
 ---
