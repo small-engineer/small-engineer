@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top" style="padding: 10px;">
-      <h1>Profile</h1>
+      <h1>プロフィール</h1>
     </td>
     <td valign="top" style="padding: 10px;">
       <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
@@ -11,32 +11,22 @@
         COO @ Kalytero | iU &amp; 42Tokyo | IT × Business | Web &amp; Cloud Developer
       </div>
     </td>
-        <td align="left">
-      <img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/WakamiyaYuma">
-        <img src="https://img.shields.io/twitter/follow/WakamiyaYuma?style=social" alt="Twitter">
-      </a>
-      <br>
-      <a href="https://github.com/small-engineer">
-        <img src="https://img.shields.io/github/followers/small-engineer?style=social" alt="GitHub">
-      </a>
-      <br>
-      <a href="https://facebook.com/yuma.wakamiya">
-        <img src="https://img.shields.io/badge/Facebook-プロフィール-blue" alt="Facebook">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/WakamiyaYuma">
-        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
-      </a>
-      <a href="https://github.com/small-engineer">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
-      </a>
-      <a href="https://www.linkedin.com/in/yuma-wakamiya/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-      </a>
+    <td valign="top" style="padding: 10px;">
+      <div style="margin-bottom: 10px;">
+        <a href="https://twitter.com/yourprofile" target="_blank">
+          <button style="padding: 8px 16px;">Twitter</button>
+        </a>
+      </div>
+      <div style="margin-bottom: 10px;">
+        <a href="https://linkedin.com/in/yourprofile" target="_blank">
+          <button style="padding: 8px 16px;">LinkedIn</button>
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/yourprofile" target="_blank">
+          <button style="padding: 8px 16px;">GitHub</button>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
