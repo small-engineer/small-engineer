@@ -39,11 +39,12 @@
   
 ---
 
-### 💻 Stacks
+### 💻 Technology I love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,js,ts,svelte,react,nextjs,remix,astro,yarn,emotion,threejs,netlify,cloudflare,aws,gcp" alt="Tech Stack Icons - Web" />
-  <img src="https://skillicons.dev/icons?i=vim,c,cpp,cmake,python,ubuntu,debian,redhat,bsd" alt="Tech Stack Icons - Dev" />
+  <img src="https://skillicons.dev/icons?i=vscode,js,ts,python,svelte,react,nextjs,remix,astro,tailwind,emotion,threejs,netlify" alt="Tech Stack Icons - Web" />
+  <img src="https://skillicons.dev/icons?i=yarn,express,nodejs,hono,docker,terraform,cloudflare,workers,aws,gcp" alt="Tech Stack Icons - Infra" />
+  <img src="https://skillicons.dev/icons?i=vim,c,cpp,cmake,linux,ubuntu,debian,redhat,bsd" alt="Tech Stack Icons - Hobby" />
 </p>
 
 ---
