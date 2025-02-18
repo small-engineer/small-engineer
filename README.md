@@ -1,31 +1,36 @@
-[![Header Image](https://www.small-engineer.net/images/logo.webp)](https://github.com/small-engineer)
+![閲覧数](https://komarev.com/ghpvc/?username=small-engineer&color=green)
 
-![Profile Views](https://komarev.com/ghpvc/?username=small-engineer&color=green)
+[![Twitter](https://img.shields.io/twitter/follow/WakamiyaYuma?style=social)](https://twitter.com/WakamiyaYuma)  
+[![GitHub](https://img.shields.io/github/followers/small-engineer?style=social)](https://github.com/small-engineer)  
+[![Facebook](https://img.shields.io/badge/Facebook-プロフィール-blue)](https://facebook.com/yuma.wakamiya)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/WakamiyaYuma?style=social)](https://twitter.com/WakamiyaYuma)  
-[![GitHub followers](https://img.shields.io/github/followers/small-engineer?style=social)](https://github.com/small-engineer)  
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://facebook.com/yuma.wakamiya)
+## 自己紹介
 
-## About Me
+<table>
+  <tr>
+    <td>
+      <img src="https://www.small-engineer.net/images/profile.webp" alt="プロフィール画像" width="200"/>
+    </td>
+    <td>
+      私は東京 🇯🇵 出身のソフトウェアエンジニアで、テクノロジー、アニメ、ゲームが大好きです。  
+      現在、<a href="https://kalytero.com">合同会社Kalytero</a> のCOOとして、  
+      革新的な技術を活用して社会課題の解決に取り組んでいます。
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://www.small-engineer.net/images/profile.webp" alt="Profile Image" width="200" style="margin-right: 20px;"/>
-  <div>
-    <p>I'm a software engineer and tech enthusiast from Tokyo, Japan 🇯🇵. I have a passion for technology, anime, and games. Currently, I'm the COO at <a href="https://kalytero.com">Kalytero LLC</a>, where we're dedicated to solving social issues through innovative technology.</p>
-  </div>
-</div>
 
-- 🎓 **Education:**
-  - Graduated from N High School in March 2023.
-  - Enrolled at the Professional University of Information and Management for Innovation in April 2023.
-  - Joining [42 Tokyo](https://42tokyo.jp/) in October 2024 to dive deep into both low-level and high-level programming.
+- 🎓 **学歴:**
+  - 2023年3月 **N高等学校** 卒業
+  - 2023年4月 **情報経営イノベーション専門職大学** 入学
+  - 2024年10月 **[42 Tokyo](https://42tokyo.jp/)** に入学し、低レベル・高レベルのプログラミングを深く学ぶ予定
 
-- 💼 **Experience:**
-  - Since 2022, I've been part of Pendemy Digital Education Lab, engaging in STEAM education initiatives.
-  - Established [Kalytero LLC](https://www.kalytero.ne.jp) in November 2023, serving as COO.
+- 💼 **職歴:**
+  - 2022年から **Pendemy府中教育ラボ** でSTEAM教育に関する活動に従事
+  - 2023年11月に **[合同会社Kalytero](https://www.kalytero.ne.jp)** を設立し、COOとして経営に携わる
 
-- 🌐 **Website:** [small-engineer.net](https://www.small-engineer.net/)  
-- 📫 **Email:** [wakamiya626@gmail.com](mailto:wakamiya626@gmail.com)
-- 🏢 **Business Email:** [yuma-wakamiya@kalytero.ne.jp](mailto:yuma-wakamiya@kalytero.ne.jp)
+- 🌐 **ウェブサイト:** [small-engineer.net](https://www.small-engineer.net/)  
+- 📫 **メール:** [wakamiya626@gmail.com](mailto:wakamiya626@gmail.com)  
+- 🏢 **ビジネスメール:** [yuma-wakamiya@kalytero.ne.jp](mailto:yuma-wakamiya@kalytero.ne.jp)  
 
-[![Footer Image](https://www.small-engineer.net/images/banner.webp)](https://www.small-engineer.net/)
+[![フッター画像](https://www.small-engineer.net/images/banner.webp)](https://www.small-engineer.net/)
