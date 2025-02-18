@@ -21,6 +21,7 @@
 ### SNS & 閲覧数
 
 ![閲覧数](https://komarev.com/ghpvc/?username=small-engineer&color=green)
+
 [![Twitter](https://img.shields.io/twitter/follow/WakamiyaYuma?style=social)](https://twitter.com/WakamiyaYuma)  
 [![GitHub](https://img.shields.io/github/followers/small-engineer?style=social)](https://github.com/small-engineer)  
 [![Facebook](https://img.shields.io/badge/Facebook-プロフィール-blue)](https://facebook.com/yuma.wakamiya)
