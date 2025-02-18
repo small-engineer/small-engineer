@@ -6,8 +6,6 @@
 </div>
 <br>
 
----
-
 # Wakamiya Yuma (若宮佑真)
 
 ### 👤 Profile
