@@ -19,7 +19,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="6" align="center">
       <tr>
           <td align="center">
             <a href="https://twitter.com/WakamiyaYuma">
