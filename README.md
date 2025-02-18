@@ -42,7 +42,8 @@
 ### 💻 Stacks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,docker,aws" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=vscode,js,ts,svelte,react,nextjs,remix,astro,yarn,emotion,threejs,netlify,cloudflare,aws,gcp" alt="Tech Stack Icons - Web" />
+  <img src="https://skillicons.dev/icons?i=vim,c,cpp,cmake,python,ubuntu,debian,redhat,bsd" alt="Tech Stack Icons - Dev" />
 </p>
 
 ---
