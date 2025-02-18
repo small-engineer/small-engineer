@@ -12,8 +12,7 @@
   <tr>
     <td valign="top" width="220" align="center">
       <img src="https://www.small-engineer.net/images/profile.webp" 
-           alt="Profile" width="200" 
-           style="border-radius: 50%;">
+           alt="Profile" width="200" >
     </td>
     <td valign="middle">
       COO @ Kalytero | iU & 42Tokyo | IT × Business | Web & Cloud Developer
@@ -22,28 +21,40 @@
   <tr>
     <td colspan="2" align="left">
       <a href="https://twitter.com/WakamiyaYuma">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" 
-             alt="Twitter" width="30">
+        <span>
+          <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" 
+               alt="Twitter" width="30">
+        </span>
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/small-engineer">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
-             alt="GitHub" width="30">
+        <span>
+          <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
+               alt="GitHub" width="30">
+        </span>
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/yuma-wakamiya/">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-             alt="LinkedIn" width="30">
+        <span>
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+               alt="LinkedIn" width="30">
+        </span>
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.facebook.com/yuma.wakamiya">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
-             alt="Facebook" width="30">
+        <span>
+          <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
+               alt="Facebook" width="30">
+        </span>
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://discord.com/users/___x86_64___">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" 
-             alt="Discord" width="30">
+        <span>
+          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" 
+               alt="Discord" width="30">
+        </span>
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.instagram.com/wakamiya_yuma">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
-             alt="Instagram" width="30">
+        <span>
+          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
+               alt="Instagram" width="30">
+        </span>
       </a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
