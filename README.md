@@ -46,22 +46,22 @@
 </table>
 
 
+---
+
+### 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=small-engineer&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-engineer&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### Contact
+### ✉️ Contact
 
 - 🌐 **ウェブサイト:** [Profile site](https://wakamiya.blog/)
 - 📫 **メール:** [wakamiya626@gmail.com](mailto:wakamiya626@gmail.com)
 - 🏢 **ビジネスメール:** [yuma-wakamiya@kalytero.ne.jp](mailto:yuma-wakamiya@kalytero.ne.jp)
 
----
-
-### 📊 Stats
-
-  <img src="https://github-readme-stats.vercel.app/api?username=small-engineer&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-engineer&layout=compact&theme=radical" alt="Top Languages" />
-  
 ---
 
 ### 💻 Technology I love
@@ -75,5 +75,8 @@
 </p>
 
 ---
-
+<p align="center">
+  
 [![フッター画像](https://www.small-engineer.net/images/banner.webp)](https://www.small-engineer.net/)
+
+</p>
