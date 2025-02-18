@@ -23,9 +23,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-プロフィール-blue)](https://facebook.com/yuma.wakamiya)
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/WakamiyaYuma)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yuma-wakamiya/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/small-engineer)
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/yuma.wakamiya)
-[![Linkdin](https://skillicons.dev/icons?i=linkdin)](https://www.linkedin.com/in/yuma-wakamiya/)
 
 ---
 
