@@ -1,3 +1,5 @@
+# Wakamiya Yuma (若宮佑真)
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
   <a href="https://github.com/small-engineer">
@@ -6,8 +8,7 @@
 </div>
 <br>
 
-## Wakamiya Yuma (若宮佑真)
-
+### 👤　　Profile
 <table>
   <tr>
     <td valign="top" width="260" align="center" colspan="2">
