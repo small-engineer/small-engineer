@@ -10,16 +10,16 @@
 
 <table>
   <tr>
-    <td valign="top" width="220" align="center">
+    <td valign="top" width="220" align="center" colspan="2">
       <img src="https://www.small-engineer.net/images/profile.webp" 
            alt="Profile" width="200">
     </td>
-    <td valign="middle">
+    <td valign="middle" colspan="4">
       COO @ Kalytero | iU & 42Tokyo | IT × Business | Web & Cloud Developer
     </td>
   </tr>
   <tr>
-    <td colspan="6" align="center">
+    <td align="center">
       <tr>
           <td align="center">
             <a href="https://twitter.com/WakamiyaYuma">
