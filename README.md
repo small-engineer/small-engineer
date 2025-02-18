@@ -75,8 +75,8 @@
 </p>
 
 ---
-<a herf="https://www.small-engineer.net/" align="center">
-
-  <img src="https://www.small-engineer.net/images/banner.webp" alt="https://www.small-engineer.net/">
-
-</a>
+<div align="center">
+  <a herf="https://www.small-engineer.net/">
+    <img src="https://www.small-engineer.net/images/banner.webp" alt="https://www.small-engineer.net/">
+  </a>
+</div>
