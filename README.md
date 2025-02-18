@@ -22,6 +22,11 @@
 [![GitHub](https://img.shields.io/github/followers/small-engineer?style=social)](https://github.com/small-engineer)  
 [![Facebook](https://img.shields.io/badge/Facebook-プロフィール-blue)](https://facebook.com/yuma.wakamiya)
 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/WakamiyaYuma)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/small-engineer)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/yuma.wakamiya)
+[![Linkdin](https://skillicons.dev/icons?i=linkdin)](https://www.linkedin.com/in/yuma-wakamiya/)
+
 ---
 
 ### Contact
