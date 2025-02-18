@@ -8,7 +8,6 @@
 
 # Wakamiya Yuma (若宮佑真)
 
-### 👤 Profile
 <table>
   <tr>
     <td valign="top" width="260" align="center" colspan="2">
@@ -59,8 +58,6 @@
   </tr>
 </table>
 
-
-
 ---
 
 ### 📊 Stats
@@ -74,8 +71,6 @@
 - 🌐 **:** [Profile site](https://wakamiya.blog/)
 - 📫 **:** [wakamiya626@gmail.com](mailto:wakamiya626@gmail.com)
 - 🏢 **:** [yuma-wakamiya@kalytero.ne.jp](mailto:yuma-wakamiya@kalytero.ne.jp)
-
----
 
 ### 💻 Technology I love
 
