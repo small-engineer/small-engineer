@@ -4,10 +4,7 @@
       <img src="https://www.small-engineer.net/images/profile.webp" alt="プロフィール画像" width="200" style="border-radius: 50%;">
     </td>
     <td valign="middle">
-      **東京出身のソフトウェアエンジニア** 🇯🇵<br>
-      テクノロジー、アニメ、ゲームに情熱を注いでいます。<br><br>
-      現在、[合同会社Kalytero](https://kalytero.com) のCOOとして、<br>
-      革新的な技術を駆使し社会課題の解決に取り組んでいます。
+        COO @ Kalytero | iU & 42Tokyo | IT × Business | Web & Cloud Developer
     </td>
   </tr>
 </table>
