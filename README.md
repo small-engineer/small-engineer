@@ -11,8 +11,8 @@
 <table>
   <tr>
     <td valign="top" width="250" align="center" colspan="2">
-      <img src="https://wakamiya.blog/prof.webp" 
-           alt="Profile" width="240">
+      <img src="https://avatars.githubusercontent.com/u/139568922" 
+        alt="Profile" width="240">
     </td>
     <td valign="middle" colspan="4" width="500">
       COO @ Kalytero | iU & 42Tokyo | IT × Business | Web & Cloud Developer
