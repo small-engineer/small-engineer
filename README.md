@@ -15,7 +15,9 @@
         alt="Profile" width="240">
     </td>
     <td valign="middle" colspan="4" width="500">
-      COO @ Kalytero | iU & 42Tokyo | IT × Business | Web & Cloud Developer
+      I’m a distance learning university student and also the COO of a startup.<br>
+      My work mainly involves systems engineering and web direction for small and medium-sized businesses.<br>
+      I'm also engaged in STEAM education initiatives for schools and NPOs.
     </td>
   </tr>
   <tr>
