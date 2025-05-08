@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td valign="top" width="250" align="center" colspan="2">
-      <img src="https://avatars.githubusercontent.com/u/139568922" 
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQGNZ3dcXb0Bhw/profile-displayphoto-shrink_800_800/B56ZavX9xnH0Ac-/0/1746699017638?e=1752105600&v=beta&t=l50IguuVEOLRlULuIFlAMYz4EqCe_FwnDj_78VXJdeY" 
         alt="Profile" width="240">
     </td>
     <td valign="middle" colspan="4" width="500">
