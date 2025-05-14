@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td valign="top" width="250" align="center" colspan="2">
-      <img src="https://media.licdn.com/dms/image/v2/D5603AQGNZ3dcXb0Bhw/profile-displayphoto-shrink_800_800/B56ZavX9xnH0Ac-/0/1746699017638?e=1752105600&v=beta&t=l50IguuVEOLRlULuIFlAMYz4EqCe_FwnDj_78VXJdeY" 
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQGPpDmNu0l-Bg/profile-displayphoto-shrink_800_800/B56ZawJsXyGkAg-/0/1746712054117?e=1752710400&v=beta&t=jOfitgAVOtYCEwT9jztFFtfAZF4OR9kpPfvQE7x46TM" 
         alt="Profile" width="240">
     </td>
     <td valign="middle" colspan="4" width="500">
