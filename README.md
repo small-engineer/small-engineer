@@ -1,7 +1,7 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
   <a href="https://github.com/small-engineer">
-    <img src="https://img.shields.io/github/followers/small-engineer?style=social" alt="GitHub">
+    <img src="https://ywaka.my/assets/images/icon.jpg" alt="GitHub">
   </a>
 </div>
 <br>
