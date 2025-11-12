@@ -1,7 +1,7 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=small-engineer&color=green" alt="閲覧数">
   <a href="https://github.com/small-engineer">
-    <img src="https://ywaka.my/assets/images/icon.jpg" alt="GitHub">
+    <img src="https://img.shields.io/github/followers/small-engineer?style=social" alt="GitHub">
   </a>
 </div>
 <br>
@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td valign="top" width="250" align="center" colspan="2">
-      <img src="https://media.licdn.com/dms/image/v2/D5603AQGPpDmNu0l-Bg/profile-displayphoto-shrink_800_800/B56ZawJsXyGkAg-/0/1746712054117?e=1752710400&v=beta&t=jOfitgAVOtYCEwT9jztFFtfAZF4OR9kpPfvQE7x46TM" 
+      <img src="https://ywaka.my/assets/images/icon.jpg" 
         alt="Profile" width="240">
     </td>
     <td valign="middle" colspan="4" width="500">
