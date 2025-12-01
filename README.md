@@ -15,7 +15,6 @@
         alt="Profile" width="240">
     </td>
     <td valign="middle" colspan="4" width="500">
-      I’m a university student and also the COO of a startup.<br>
       My work mainly involves systems engineering and web direction for SMEs.<br>
       I'm also engaged in STEAM education initiatives for schools and NPOs.
     </td>
@@ -71,18 +70,9 @@
 
 ### ✉️ Contact
 
-- 🌐 **:** [Profile site](https://wakamiya.blog/)
+- 🌐 **:** [Profile site](https://ywaka.my)
 - 📫 **:** [wakamiya626@gmail.com](mailto:wakamiya626@gmail.com)
 - 🏢 **:** [yuma-wakamiya@kalytero.ne.jp](mailto:yuma-wakamiya@kalytero.ne.jp)
-
-### 💻 Technology I love
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,js,ts,python" alt="Tech Stack Icons - Lang" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,astro,materialui,tailwind,emotion,styledcomponents,threejs" alt="Tech Stack Icons - Web" /><br>
-  <img src="https://skillicons.dev/icons?i=yarn,express,nodejs,docker,terraform,cloudflare,workers,aws,gcp" alt="Tech Stack Icons - Infra" /><br>
-  <img src="https://skillicons.dev/icons?i=vim,c,cpp,cmake,linux,ubuntu,debian,redhat,bsd" alt="Tech Stack Icons - Hobby" /><br>
-</p>
 
 ---
 <div align="center">
