@@ -59,28 +59,6 @@
   </tr>
 </table>
 
----
-
-### 📊 Stats
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/small-engineer">
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api?username=small-engineer&show_icons=true&theme=transparent&locale=ja"
-      alt="GitHub Stats"
-    />
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/small-engineer">
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-engineer&layout=compact&langs_count=8&card_width=320&theme=transparent"
-      alt="Top Languages"
-    />
-  </a>
-
 ### ✉️ Contact
 
 - 🌐 **:** [Profile site](https://ywaka.my)
