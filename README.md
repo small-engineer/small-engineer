@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td valign="top" width="250" align="center" colspan="2">
-      <img src="https://ywaka.my/assets/images/icon.jpg" 
+      <img src="https://github.com/small-engineer/small-engineer/blob/main/prof.jpg" 
         alt="Profile" width="240">
     </td>
     <td valign="middle" colspan="4" width="500">
